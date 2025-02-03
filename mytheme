@@ -468,13 +468,13 @@ textarea,
   order: 1;
 }
 .typeWindows__421ed > .wordmark__421ed:before {
-  content: "ClearVision";
+  content: "Ghost Modding";
   color: hsla(0, 0%, 100%, 0.7);
   font-size: 14px;
   text-shadow: 0 0 3px #000;
 }
 .typeWindows__421ed > .wordmark__421ed:after {
-  content: "v6.9.0";
+  content: "v1.0.0";
   color: hsla(0, 0%, 100%, 0.3);
   font-family: var(--code-font);
   font-size: 10px;
